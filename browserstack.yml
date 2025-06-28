@@ -1,0 +1,23 @@
+userName: anikdasgupta_sW03Uz
+accessKey: gFspSApHHEnMSwGzeHk8
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 120.0
+  - os: OS X
+    osVersion: Monterey
+    browserName: Safari
+    browserVersion: 15.6
+  - deviceName: iPhone 13
+    osVersion: 15
+    browserName: Chromium
+    deviceOrientation: portrait
+browserstackLocal: true
+buildName: bstack-demo
+projectName: BrowserStack Sample
+CUSTOM_TAG_1: "BDD Framework with pytest-bdd"
+debug: true
+networkLogs: true
+consoleLogs: info
+framework: python

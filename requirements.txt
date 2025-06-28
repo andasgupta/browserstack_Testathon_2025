@@ -1,0 +1,7 @@
+# Core testing dependencies
+pytest
+pytest-bdd
+selenium
+pyyaml
+pytest-html
+browserstack-sdk
